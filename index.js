@@ -31,8 +31,8 @@ let posts = [
   },
   {
     id: uuidv4(),
-    username: "deepanshsingh",
-    content: "I got admission in IIM!",
+    username: "dishaseth",
+    content: "I got my 1st Internship!",
   },
 ];
 
